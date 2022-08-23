@@ -1,0 +1,10 @@
+___________PRADEEP SOLANKI AIRLIES___________
+__________________ticket_____________________
+_____________________________________________
+Coustomer ID: 1
+Coustomer name: pradeep
+Coustomer gender: male
+	Description
+
+destination		usa
+flight cost :		39000
